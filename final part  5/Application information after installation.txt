@@ -1,0 +1,27 @@
+INSTALLATION COMPLETED SUCCESSFULLY
+
+Smart Calculator has been successfully installed on your system.
+
+You can now launch the application from:
+- Desktop shortcut (if selected)
+- Start Menu
+- Installation folder
+
+Thank you for installing Smart Calculator.
+
+This project demonstrates Python GUI development using Tkinter, mathematical logic, and software packaging using PyInstaller and Inno Setup.
+
+What you can do next:
+- Open the application and start using calculator features
+- Explore advanced functions like Cube Root, Square Root, Power, and Temperature Conversion
+- Use it as a learning project for Python GUI development
+
+If you enjoy this project, consider improving it by adding more features like:
+- Scientific calculator functions
+- Dark mode UI
+- History tracking system
+- Advanced scientific tools
+
+Developer: Ammar
+
+Click Finish to exit Setup.

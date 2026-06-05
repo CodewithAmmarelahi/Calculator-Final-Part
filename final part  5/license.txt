@@ -1,0 +1,18 @@
+SOFTWARE LICENSE AGREEMENT
+
+Smart Calculator Application
+
+Copyright (c) 2026 Developer Ammar
+
+This software is provided "as is" without warranty of any kind.
+
+By installing and using this software, you agree to the following terms:
+
+1. You are allowed to use this software for personal and educational purposes.
+2. You are NOT allowed to sell, redistribute, or modify this software for commercial use without permission.
+3. The developer is not responsible for any damage, data loss, or system issues caused by this software.
+4. Reverse engineering or decompiling this application is not allowed.
+
+If you do not agree with these terms, do not install or use this software.
+
+END OF LICENSE

@@ -1,0 +1,22 @@
+SMART CALCULATOR APPLICATION
+
+Welcome to Smart Calculator Setup.
+
+This software is a Python-based smart calculator developed for educational and learning purposes.
+
+Features included in this application:
+- Basic arithmetic operations (Add, Subtract, Multiply, Divide)
+- Cube Root calculation
+- Square Root calculation
+- Power function
+- Average calculator
+- Temperature conversion (Celsius, Fahrenheit, Kelvin)
+- Graphical User Interface (GUI using Tkinter)
+
+Important Notes:
+- This application is safe to install and use.
+- It is designed for Windows systems.
+- No internet connection is required.
+- Developed for educational and portfolio purposes.
+
+Click Next to continue installation.
